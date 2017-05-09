@@ -13,7 +13,7 @@ Graphstream - http://graphstream-project.org/
 Sqlite jdbc - https://bitbucket.org/xerial/sqlite-jdbc/downloads/
 
 ```
-Required sqlite database file for EVE data Static data export (SDE) made available by CCP, conversion available by fuzzwork.co.uk
+Required sqlite database file for EVE data Static data export (SDE) made available by CCP, conversion available by fuzzwork.co.uk. The sqlite db file must be named "EData.db" in the top level directory.
 ```
 https://www.fuzzwork.co.uk/dump/
 ```
