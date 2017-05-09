@@ -19,8 +19,8 @@ https://www.fuzzwork.co.uk/dump/
 ```
 
 ### Screenshots
-![alt text](/screenshots/EMapper1.png "Opening application")
-![alt text](/screenshots/EMapper2.png "Example route")
+![alt text](/screenshots/EMapper1.PNG "Opening application")
+![alt text](/screenshots/EMapper2.PNG "Example route")
 
 ## License
 
