@@ -3,7 +3,7 @@
 EMapper provides a visual representation of the universe of New Eden in the online massively-multiplayer game EVE-Online. 
 A* path-finding algorithm is used to provide route information between two solar-system nodes within the network.
 
-### Prerequisites
+## Prerequisites
 
 Required jar files
 
@@ -18,7 +18,7 @@ Required sqlite database file for EVE data Static data export (SDE) made availab
 https://www.fuzzwork.co.uk/dump/
 ```
 
-### Screenshots
+## Screenshots
 ![alt text](/screenshots/EMapper1.PNG "Opening application")
 ![alt text](/screenshots/EMapper2.PNG "Example route")
 
@@ -33,5 +33,5 @@ For details, please see the http://www.opensource.org/licenses/AFL-3.0.
 * CCP for making EVEs Static Data Export(SDE) public https://developers.eveonline.com/resource/resources
 * https://www.fuzzwork.co.uk/dump/ for SDE reformatting
 * Graphstream Project which this application is based around
-
+###CCP copyright notice
 © 2014 CCP hf. All rights reserved. "EVE", "EVE Online", "CCP", and all related logos and images are trademarks or registered trademarks of CCP hf.
