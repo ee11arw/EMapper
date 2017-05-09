@@ -1,0 +1,48 @@
+/*set background*/
+graph { 
+	fill-color: white; 
+	}
+	
+/*==DEFAULT NODE & EDGE STYLES==*/
+	
+node {
+	size: 3px;
+	fill-color: rgba(15,100,0,128);
+	z-index: 1;
+	
+	text-mode: normal;
+	text-alignment: under;
+	text-color: black;
+	
+	/*set text to show at 12% zoom to avoid
+	text overlap and clustering*/
+	text-visibility-mode: under-zoom;
+	text-visibility: 0.12;
+}
+
+edge {
+	size: 1px;
+	fill-color: grey;
+	z-index: 0;
+	shape: blob;
+	
+	/* edges can be disabled until high zoom for performance*/
+	visibility-mode: under-zoom;
+	visibility: 1.0;
+}
+
+/*==ROUTE HIGHLIGHTING==*/
+
+edge.routeE {
+	size: 1px;
+	fill-color: rgba(180,115,0,128);
+	z-index: 0;
+	shape: blob;
+}
+
+node.route {
+	size: 3px;
+	fill-color: rgba(255,0,0,255);
+	z-index: 1;
+	text-visibility: 1;
+}
