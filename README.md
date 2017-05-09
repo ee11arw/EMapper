@@ -33,5 +33,6 @@ For details, please see the http://www.opensource.org/licenses/AFL-3.0.
 * CCP for making EVEs Static Data Export(SDE) public https://developers.eveonline.com/resource/resources
 * https://www.fuzzwork.co.uk/dump/ for SDE reformatting
 * Graphstream Project which this application is based around
-###CCP copyright notice
+
+### CCP copyright notice
 © 2014 CCP hf. All rights reserved. "EVE", "EVE Online", "CCP", and all related logos and images are trademarks or registered trademarks of CCP hf.
