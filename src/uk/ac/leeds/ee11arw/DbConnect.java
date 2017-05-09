@@ -1,3 +1,10 @@
+/*
+ * DbConnect.java 1.0 May 2017
+ * 
+ * This code is provided under the Academic Academic Free License v. 3.0.
+ * For details, please see the http://www.opensource.org/licenses/AFL-3.0.
+ */
+
 package uk.ac.leeds.ee11arw;
 
 import java.io.File;
